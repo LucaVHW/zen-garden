@@ -29,6 +29,8 @@ header {
   justify-content: space-around;
   grid-template-areas: 'design-selection design-archives zen-resources';
   padding-bottom: 10px;
+  background-color: darkolivegreen;
+  color: gainsboro;
 }
 ul {
   list-style-type: none;
@@ -38,10 +40,10 @@ ul {
 }
 li a {
   text-decoration: none;
-  color: #222;
+  color: silver;
 }
 li a:hover {
-  color: grey;
+  color: lightgrey;
 }
 .summary {
   text-align: center;
