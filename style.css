@@ -20,6 +20,8 @@ header {
   border-bottom: 2px solid #333;
   text-align: center;
   width: 100%;
+  background-color: lightgreen;
+  padding-top: 10px;
 }
 .wrapper {
   border-top: 1px solid black;
